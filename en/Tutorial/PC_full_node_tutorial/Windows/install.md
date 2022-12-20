@@ -1,14 +1,14 @@
 # Install and run
 
-This operation manual is applicable to the BCF node program of V 3.6.62 and above.
+This operation manual is applicable to the BFM node program of V 3.6.62 and above.
 
 ## Operating environment
 
-In order to ensure that you can run the BCF node program smoothly, we recommend that you use the following configuration equipment:
+In order to ensure that you can run the BFM node program smoothly, we recommend that you use the following configuration equipment:
 
 - CPU: 16 cores (main frequency 3.0G+)
 
-- Memory: 32G
+- Memory: 16G
 
 - Hard disk: SSD 2T or above
 
@@ -18,17 +18,17 @@ In order to ensure that you can run the BCF node program smoothly, we recommend 
 
 ![](./media/650146cc97af646893e1dca16fa1ac11.png)
 
-## Install the app
+## Install the EXE File
 
-This chapter will introduce how to install and uninstall the BCF node program under the Windows operating system.
+This chapter will introduce how to install and uninstall the BFM node program under the Windows operating system.
 
 ### Install
 
 1. Installation preparation
    
-   You need to download the BCF node program package from the official channel first. The official download address is:
+   You need to download the BFM node program package from the official channel first. The official download address is:
 
-   Click the downloaded BCF node program installation package to enter the installation preparation interface as shown in the figure below:
+   Click the downloaded BFM node program installation package to enter the installation preparation interface as shown in the figure below:
    
     ![](./media/650146cc97af646893e1dca16fa1ac6d.png)
 
@@ -42,7 +42,7 @@ This chapter will introduce how to install and uninstall the BCF node program un
 
 3. Select the installation set
    
-   Select the language and click "OK" to enter the BCF node program installation wizard interface, as shown in the following figure:
+   Select the language and click "OK" to enter the BFM node program installation wizard interface, as shown in the following figure:
    
     ![](./media/7d7c10ba54d94918bd93e0a547bdecb6.png)
 
@@ -59,22 +59,22 @@ This chapter will introduce how to install and uninstall the BCF node program un
 
 5. Select Shortcut
    
-   BCF provides a variety of options for creating shortcuts:
+   BFM provides a variety of options for creating shortcuts:
    
    ![](./media/2171bcb36c882b56009074140f0fafdf.png)
 
    
-   1. In the new program group: select this method, after installation, a new folder will be added in the "Start" menu bar to store the BCF.exe shortcut icon, and the folder name is named by the user in the figure above name;
+   1. In the new program group: select this method, after installation, a new folder will be added in the "Start" menu bar to store the BFM.exe shortcut icon, and the folder name is named by the user in the figure above name;
    
-   2. In the "Start" menu: select this method, and the BCF.exe shortcut icon will be added directly in the "Start" menu bar after installation, and the user can search by letter;
+   2. In the "Start" menu: select this method, and the BFM.exe shortcut icon will be added directly in the "Start" menu bar after installation, and the user can search by letter;
    
-   3. On the desktop: select this method, and the BCF.exe shortcut icon will be created directly on the desktop after installation;
+   3. On the desktop: select this method, and the BFM.exe shortcut icon will be created directly on the desktop after installation;
    
-   4. In the quick launch bar: select this method, the BCF.exe shortcut icon will be placed in the quick launch bar after installation;
+   4. In the quick launch bar: select this method, the BFM.exe shortcut icon will be placed in the quick launch bar after installation;
    
    5. Others: users can choose to create BCF.exe shortcut icon in the specified location;
    
-   6. Don't create icon: Don't set a shortcut icon for BCF.exe. If you want to use it, you need to open it in the installation directory.
+   6. Don't create icon: Don't set a shortcut icon for BFM.exe. If you want to use it, you need to open it in the installation directory.
 
 
 6. Preview of installation information
@@ -94,21 +94,21 @@ This chapter will introduce how to install and uninstall the BCF node program un
 
 8. Successful installation
    
-   After installation, the shortcut startup icon of the BCF node program will be displayed in the preset shortcut:
+   After installation, the shortcut startup icon of the BFM node program will be displayed in the preset shortcut:
    
    
    ![](./media/c9a299362b8db398154594903735d462.png)
    
    
-   > Note: After the BCF node program is successfully installed, the default software has been started, and the user does not need to start the software again.
+   > Note: After the BFM node program is successfully installed, the default software has been started, and the user does not need to start the software again.
 
 
 ### Uninstall
 
 
-The user can uninstall the BCF node program of the biological chain forest through the following two paths:
+The user can uninstall the BFM node program of the BFChainMeta through the following two paths:
 
-1. Open the control panel [Control Panel]-\>Open the program [Programs]-\> Open the program and features [Programs and Features], select the application [bcf], click "Uninstall/Change" to uninstall, as shown in the figure below :
+1. Open the control panel [Control Panel]-\>Open the program [Programs]-\> Open the program and features [Programs and Features], select the application [bfm], click "Uninstall/Change" to uninstall, as shown in the figure below :
    
     ![](./media/5ba787071e20f249496a494ab0daff62.png)
 
@@ -118,19 +118,19 @@ The user can uninstall the BCF node program of the biological chain forest throu
     ![](./media/2dfacffcbd8ab81513f5e1d2a7fd1b23.png)
 
 
-2. Click the [Start] menu, find the shortcut icon of the BCF node program, right-click, and in the pop-up window, select "Uninstall" and uninstall according to the operation prompts, as shown in the following figure:
+2. Click the [Start] menu, find the shortcut icon of the BFM node program, right-click, and in the pop-up window, select "Uninstall" and uninstall according to the operation prompts, as shown in the following figure:
    
    
     ![](./media/e7b0ce219235a2d249478eec6e5a43dd.png)
 
    
-   > Note: After any of the above paths are successfully uninstalled, the BCF node program icon will not be found on the desktop and menu buttons. The current uninstallation will retain the data files and log files of the current chain. If you want to completely clear the files, you need to delete all files and sub-files in the installation directory.
+   > Note: After any of the above paths are successfully uninstalled, the BFM node program icon will not be found on the desktop and menu buttons. The current uninstallation will retain the data files and log files of the current chain. If you want to completely clear the files, you need to delete all files and sub-files in the installation directory.
 
 ## Genesis block application
 
 ### Apply for Genesis Block
 
-After the BCF node program is installed, the default operation is the main chain of the biological chain forest BFChain. If users want to create and run a blockchain of their own, they need to apply to the Biochain Forest team to create a genesis block in the form of email.
+After the BFM node program is installed, the default operation is the main chain of the BFChainMeta. If users want to create and run a blockchain of their own, they need to apply to the BFChainMeta team to create a genesis block in the form of email.
 
 The email must contain the following information:
 
